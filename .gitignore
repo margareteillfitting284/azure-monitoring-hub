@@ -1,0 +1,101 @@
+# ======================
+# Terraform
+# ======================
+
+# Local .terraform directories
+**/.terraform/*
+
+# Terraform lock file (opcional: comentar si quieres versionarlo)
+# .terraform.lock.hcl
+
+# State files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.terraform.lock
+*.terraform.lock.hcl
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Archivos de variables con valores sensibles
+*.tfvars.json
+
+# Override files (uso local)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Plan files (pueden contener secrets en texto plano)
+*.tfplan
+*.plan
+
+# CLI configuration (credenciales locales)
+.terraformrc
+terraform.rc
+
+# ======================
+# Credenciales y Secrets
+# ======================
+
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.yaml
+secrets.yml
+secrets.json
+.env
+.env.*
+
+# ======================
+# Azure
+# ======================
+
+azure_credentials.json
+azureauth.json
+
+# ======================
+# AWS
+# ======================
+
+.aws/credentials
+
+# ======================
+# GCP
+# ======================
+
+*-service-account.json
+gcp-credentials.json
+application_default_credentials.json
+
+# ======================
+# IDE / Editors
+# ======================
+
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ======================
+# Sistema Operativo
+# ======================
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================
+# Logs y temporales
+# ======================
+
+*.log
+tmp/
+temp/
